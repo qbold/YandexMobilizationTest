@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YandexMobilizationTest</string>
+    <string name="title">Исполнители</string>
+    <string name="biography">Биография</string>
+</resources>
